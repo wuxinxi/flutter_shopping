@@ -1,4 +1,5 @@
 # flutter_shopping
+<img src="https://raw.githubusercontent.com/wuxinxi/flutter_shopping/master/screenImg/flutter_app_shopping.gif" width="460" height="768"/> <br/>
 ## Flutter 版本购物app
 ### 轮播图Banner插件
 flutter_swiper: ^1.1.6  </br>
