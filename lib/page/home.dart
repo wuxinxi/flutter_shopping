@@ -10,7 +10,7 @@ import 'package:flutter_shopping/provider/category_provider.dart';
 import 'package:flutter_shopping/provider/jump_by_index.dart';
 import 'package:flutter_swiper/flutter_swiper.dart';
 import 'package:provider/provider.dart';
-import '../common/common_widget.dart';
+import '../widget/common_widget.dart';
 import 'details/shopping_details.dart';
 
 class HomePage extends StatefulWidget {

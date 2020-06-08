@@ -1,6 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_shopping/common/common_widget.dart';
+import 'package:flutter_shopping/widget/common_widget.dart';
 import 'package:flutter_shopping/common/contant.dart';
 import 'package:flutter_shopping/model/cart_model.dart';
 import 'package:flutter_shopping/page/details/shopping_details.dart';

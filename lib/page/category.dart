@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_shopping/common/common_widget.dart';
+import 'package:flutter_shopping/widget/common_widget.dart';
 import 'package:flutter_shopping/common/url.dart';
 import 'package:flutter_shopping/io/dao/dao.dart';
 import 'package:flutter_shopping/model/home_model.dart';
